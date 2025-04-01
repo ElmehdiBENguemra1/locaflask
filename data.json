@@ -1,0 +1,30 @@
+[
+    {
+        "latitude": 34.0400045,
+        "longitude": -5.0494007,
+        "accuracy_m": 39.6,
+        "maps_url": "https://maps.google.com/?q=34.0400045,-5.0494007&z=18",
+        "timestamp": "2025-03-31 14:44:49"
+    },
+    {
+        "latitude": 34.0197749,
+        "longitude": -5.0501209,
+        "accuracy_m": 2384.0704334887414,
+        "maps_url": "https://maps.google.com/?q=34.0197749,-5.0501209&z=18",
+        "timestamp": "2025-03-31 16:36:27"
+    },
+    {
+        "latitude": 33.9212571,
+        "longitude": -6.8998724,
+        "accuracy_m": 364834.96378403204,
+        "maps_url": "https://maps.google.com/?q=33.9212571,-6.8998724&z=18",
+        "timestamp": "2025-03-31 22:12:06"
+    },
+    {
+        "latitude": 33.9212571,
+        "longitude": -6.8998724,
+        "accuracy_m": 364834.96378403204,
+        "maps_url": "https://maps.google.com/?q=33.9212571,-6.8998724&z=18",
+        "timestamp": "2025-03-31 22:12:37"
+    }
+]
